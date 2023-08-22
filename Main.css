@@ -1,0 +1,22 @@
+h1 {
+    padding: 0.4em 0.5em;
+    color: #494949;
+    background: #f4f4f4;
+    border-left: solid 5px #7db4e6;
+    border-bottom: solid 3px #d7d7d7;
+}
+
+.guide {
+    padding: 10px 0px 10px 0px;
+    background: #ffffff;
+    border: dashed 5px #7db4e6;
+    border-radius: 10px;
+}
+
+h2 {
+    padding: 0.4em 0.5em;
+    color: #494949;
+    background: #f4f4f4;
+    border-left: solid 5px #7db4e6;
+    border-bottom: solid 3px #d7d7d7;
+}
